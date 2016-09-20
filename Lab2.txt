@@ -1,0 +1,7 @@
+Lab 2 pg. 64
+
+1) The Buisiness rule for the relationship between AGENT and CUSTOMER is that one agent can have many customers but a customer can only have one agent.
+
+2) See workbench ERD.
+
+3) See UML Diagram.
